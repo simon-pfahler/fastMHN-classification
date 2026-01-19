@@ -1,0 +1,5 @@
+# excluding datasets directly coming from MSK via cbioportal
+cbioportal
+
+# excluding generated plots
+post_analysis/*.pdf
